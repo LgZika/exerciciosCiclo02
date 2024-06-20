@@ -5,4 +5,5 @@ Repositório com os exercícios do ciclo 02 da disciplina de Inglês do Curso de
 ## Exercícios
 
 * [Exemplo de Estrutura de Documentação](./exemploEstruturaDocumentacao(docs)/)
-* [Task Manager](./exercicioTaskManager/) 
+* [Task Manager](./exercicioTaskManager/)
+

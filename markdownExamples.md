@@ -47,11 +47,11 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 ## Tables
 
-| Fruts  | Quantidade |
+| Fruts         | Quantidade    |
 | ------------- |:-------------:|
-| Maçãs      |  10     |
-| Melancias      | 30     |
-| Laranjas     | 50     |
+| Maçãs         | 10            |
+| Melancias     | 30            |
+| Laranjas      | 50            |
 
 ## Blocks of code
 
