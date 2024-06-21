@@ -8,7 +8,7 @@ Exemplos e Snippets de Estruturas do MarkDown para README's
 
 * [MarkDown](./markdownExamples.md)
 
-## Exercícios
+## 📚 Exercícios
 
 Exercicios realizados
 
