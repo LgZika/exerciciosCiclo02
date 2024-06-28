@@ -15,3 +15,4 @@ Exercicios realizados
 * [Exemplo de Estrutura de Documentação](./exemploEstruturaDocumentacao(docs)/)
 * [Task Manager](./exercicioTaskManager/)
 * [Asking for help e Aferir circuitos com multimetro](./aulaConteúdo10.txt)
+* [Diferenças entre sistemas de Gerenciamento de Dados](./diferencasLinux&Windows.txt)
