@@ -1,11 +1,18 @@
-Frases para pedir ajuda para os professores:
+_> Frases para pedir ajuda para os professores:
 
 Mr. ( ), could you help me?
 Teacher, would you mind helping me with this code?
 Mr. ( ), may i have some help?
 
-Frases para chamar os colegas:
+_> Frases para chamar os colegas:
 
 Hey bro, come here.
 Miguel, may you come here?
 Rafael, could you help me?
+
+_> Aferindo Tensões e Resistências elétricas com o Multimetro:
+
+  Para aferirmos a tensão de sáida de uma porta USB, por exemplo, colocamos a chave 
+seletora do multimetro na opção de "corrente continua" com precisão de até de 20 Volts, pois, a porta USB fornece apenas 5 Volts;
+De modo semelhante, para medirmos a tensão de uma tomada, selecionamos a opção de "corrente alternada" e colocamos as agulhas nos borns da tomada.
+Para aferir-se a resistência em Ohms de um resistor ou faixa de circuito, usamos a escala de resistência ou Ohmímetro.
