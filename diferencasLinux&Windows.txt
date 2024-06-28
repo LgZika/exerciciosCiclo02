@@ -1,0 +1,23 @@
+Modelo de Hierarquia de Diretórios:
+Linux: Utiliza uma estrutura de diretórios hierárquica começando com "/", onde todos os dispositivos e recursos são acessados através de um único diretório raiz.
+Windows: Usa uma estrutura de diretórios com unidades (por exemplo, C:, D:), comumente utilizando letras de unidades para separar diferentes volumes de armazenamento.
+
+Nomenclatura de Arquivos:
+Linux: Sensível a maiúsculas e minúsculas (case-sensitive) na maioria dos sistemas de arquivos, o que significa que "arquivo.txt" e "Arquivo.txt" são tratados como arquivos diferentes.
+Windows: Não é sensível a maiúsculas e minúsculas (case-insensitive) por padrão, embora existam opções para habilitar essa funcionalidade em sistemas de arquivos NTFS.
+
+Permissões de Arquivos:
+Linux: Utiliza um sistema de permissões detalhado baseado em usuários (proprietário), grupo e outros, controlando quem pode ler, escrever e executar arquivos.
+Windows: Usa um sistema de controle de acesso baseado em ACLs (Access Control Lists) que permite permissões granulares para usuários e grupos.
+
+Gerenciamento de Links (Atalhos):
+Linux: Suporta dois tipos principais de links simbólicos e rígidos (hard links), que são usados para apontar para arquivos e diretórios dentro do sistema de arquivos.
+Windows: Usa atalhos (shortcuts) que são arquivos especiais que apontam para outros arquivos ou diretórios, podendo ser criados facilmente pelo usuário.
+
+Compatibilidade de Nomes de Arquivos:
+Linux: Permite o uso de uma ampla gama de caracteres em nomes de arquivos, incluindo espaços e caracteres especiais, exceto alguns caracteres reservados para o sistema.
+Windows: Restringe certos caracteres especiais e palavras reservadas em nomes de arquivos que podem causar problemas de compatibilidade ou operação.
+
+Interoperabilidade e Integração com Aplicativos:
+Linux: Oferece uma integração forte com ferramentas de linha de comando e aplicativos desenvolvidos especificamente para ambientes Linux.
+Windows: Tem uma vasta gama de aplicativos comerciais e de consumo geral desenvolvidos especificamente para a plataforma Windows, aproveitando as APIs e o ambiente de desenvolvimento da Microsoft.
