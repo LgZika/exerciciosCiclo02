@@ -16,4 +16,3 @@ Exercicios realizados
 * [Task Manager](./exercicioTaskManager/)
 * [Asking for help e Aferir circuitos com multimetro](./aulaConteúdo10.txt)
 * [Diferenças entre sistemas de Gerenciamento de Dados](./diferencasLinux&Windows.txt)
-* [Levantamento de Requesitos Planilha](./LevantamentoDeRequesitos.xlsx)
